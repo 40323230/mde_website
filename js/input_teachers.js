@@ -165,7 +165,7 @@ var teachers_list = [
 
 for(var i=0; i<teachers_list.length; i++){
     var value = teachers_list[i];
-    if(i%3==0){document.write("<div class=\"row text-center\">")};
+    if(i%3==0){document.write("<hr><div class=\"row text-center\">")};
     document.write("<div class=\"col-sm-4 col-xs-4\">");
     document.write("<img class=\"headimg\" src=\"images/teachers/"+value.picture+"\"> </i>");
     document.write("<h3>"+value.name+"</h3>");
@@ -176,6 +176,6 @@ for(var i=0; i<teachers_list.length; i++){
     document.write("<a href=\""+value.link+"\" class=\"btn btn-default btn-lg\">履歷</a>");
     document.write("</div>");
     if((i-2)%3==0){
-    document.write("</div><hr>")
+    document.write("</div>")
     };
 };

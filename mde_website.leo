@@ -17,13 +17,14 @@
 <v t="ahshoe.20161029100845.1" a="E"><vh>@path ./</vh>
 <v t="ahshoe.20161029100133.1" a="E"><vh>@clean index.html</vh>
 <v t="ahshoe.20161029221111.1" a="E"><vh>html</vh>
-<v t="ahshoe.20161029221111.2" a="E"><vh>head</vh>
+<v t="ahshoe.20161029221111.2"><vh>head</vh>
 <v t="ahshoe.20161029221111.3"><vh>title</vh></v>
 <v t="ahshoe.20161029221111.4"><vh>script</vh></v>
 <v t="ahshoe.20161029221111.5"><vh>script</vh></v>
 <v t="ahshoe.20161029221111.6"><vh>script</vh></v>
 </v>
 <v t="ahshoe.20161029221111.7" a="E"><vh>body</vh>
+<v t="ahshoe.20161030130757.1" a="E"><vh>nav</vh>
 <v t="ahshoe.20161029221111.8"><vh>div</vh>
 <v t="ahshoe.20161029221111.9"><vh>div</vh>
 <v t="ahshoe.20161029221111.10"><vh>button</vh>
@@ -52,6 +53,7 @@
 </v>
 </v>
 </v>
+</v>
 <v t="ahshoe.20161029221111.27"><vh>div</vh>
 <v t="ahshoe.20161029221111.28"><vh>div</vh>
 <v t="ahshoe.20161029221111.29"><vh>h1</vh></v>
@@ -61,24 +63,32 @@
 <v t="ahshoe.20161029221111.32"><vh>a</vh></v>
 </v>
 </v>
-<v t="ahshoe.20161029221111.33"><vh>div</vh>
-<v t="ahshoe.20161029221111.34"><vh>div</vh>
-<v t="ahshoe.20161029221111.35"><vh>div</vh>
+<v t="ahshoe.20161029221111.33" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.34" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.35" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.36"><vh>ol</vh>
 <v t="ahshoe.20161029221111.37"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.38"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.39"><vh>li</vh></v>
 </v>
 <v t="ahshoe.20161029221111.40"><vh>div</vh>
-<v t="ahshoe.20161029221111.41"><vh>div</vh>
+<v t="ahshoe.20161029221111.41" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.42"><vh>div</vh></v>
 </v>
-<v t="ahshoe.20161029221111.43"><vh>div</vh>
+<v t="ahshoe.20161029221111.43" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.44"><vh>div</vh></v>
 </v>
-<v t="ahshoe.20161029221111.45"><vh>div</vh>
+<v t="ahshoe.20161029221111.45" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.46"><vh>div</vh></v>
 </v>
+</v>
+<v t="ahshoe.20161030134400.1"><vh>a</vh>
+<v t="ahshoe.20161030134446.1"><vh>span</vh></v>
+<v t="ahshoe.20161030134507.1"><vh>span</vh></v>
+</v>
+<v t="ahshoe.20161030134530.1" a="E"><vh>a</vh>
+<v t="ahshoe.20161030134600.1"><vh>span</vh></v>
+<v t="ahshoe.20161030134617.1"><vh>span</vh></v>
 </v>
 </v>
 </v>
@@ -126,6 +136,12 @@
 <v t="ahshoe.20161029221111.81"><vh>h3</vh></v>
 <v t="ahshoe.20161029221111.82"><vh>p</vh></v>
 <v t="ahshoe.20161029221111.83"><vh>a</vh></v>
+</v>
+<v t="ahshoe.20161030130222.1"><vh>div</vh>
+<v t="ahshoe.20161030130222.2"><vh>i</vh></v>
+<v t="ahshoe.20161030130222.3"><vh>h3</vh></v>
+<v t="ahshoe.20161030130222.4"><vh>p</vh></v>
+<v t="ahshoe.20161030130222.5"><vh>a</vh></v>
 </v>
 <v t="ahshoe.20161029221111.84"><vh>div</vh>
 <v t="ahshoe.20161029221111.85"><vh>i</vh></v>
@@ -236,18 +252,22 @@
 <v t="ahshoe.20161029221111.164"><vh>h3</vh></v>
 <v t="ahshoe.20161029221111.165"><vh>div</vh>
 <v t="ahshoe.20161029221111.166"><vh>h3</vh></v>
+<v t="ahshoe.20161030125004.1"><vh>p</vh>
 <v t="ahshoe.20161029221111.167"><vh>ol</vh>
 <v t="ahshoe.20161029221111.168"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.169"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.170"><vh>li</vh></v>
 </v>
 </v>
+</v>
 <v t="ahshoe.20161029221111.171"><vh>div</vh>
 <v t="ahshoe.20161029221111.172"><vh>h3</vh></v>
+<v t="ahshoe.20161030125030.1"><vh>p</vh>
 <v t="ahshoe.20161029221111.173"><vh>ol</vh>
 <v t="ahshoe.20161029221111.174"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.175"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.176"><vh>li</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -259,8 +279,59 @@
 <v t="ahshoe.20161029221111.180"><vh>script</vh></v>
 </v>
 </v>
-<v t="ahshoe.20161029221610.1" a="E"><vh>footer</vh>
-<v t="ahshoe.20161029221111.262" a="E"><vh>div</vh>
+<v t="ahshoe.20161030112332.1"><vh>div</vh>
+<v t="ahshoe.20161030112358.1"><vh>div</vh>
+<v t="ahshoe.20161030120806.1"><vh>div</vh>
+<v t="ahshoe.20161030113414.1"><vh>h2</vh></v>
+<v t="ahshoe.20161030113704.1"><vh>hr</vh></v>
+<v t="ahshoe.20161030113600.1"><vh>h3</vh></v>
+</v>
+<v t="ahshoe.20161030120837.1"><vh>div</vh>
+<v t="ahshoe.20161030120849.1"><vh>div</vh>
+<v t="ahshoe.20161030121026.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030121352.1"><vh>a</vh></v>
+<v t="ahshoe.20161030122610.1"><vh>br</vh></v>
+<v t="ahshoe.20161030121653.2"><vh>a</vh></v>
+</v>
+<v t="ahshoe.20161030120932.1"><vh>div</vh>
+<v t="ahshoe.20161030121133.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030122023.3"><vh>a</vh></v>
+</v>
+<v t="ahshoe.20161030120938.1"><vh>div</vh>
+<v t="ahshoe.20161030121159.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030122548.1"><vh>a</vh></v>
+<v t="ahshoe.20161030122622.1"><vh>br</vh></v>
+<v t="ahshoe.20161030122550.1"><vh>a</vh></v>
+<v t="ahshoe.20161030122625.1"><vh>br</vh></v>
+<v t="ahshoe.20161030122552.1"><vh>a</vh></v>
+</v>
+</v>
+</v>
+</v>
+<v t="ahshoe.20161030123035.1"><vh>div</vh>
+<v t="ahshoe.20161030123101.1"><vh>div</vh>
+<v t="ahshoe.20161030123303.1"><vh>h2</vh></v>
+<v t="ahshoe.20161030123438.1"><vh>hr</vh></v>
+<v t="ahshoe.20161030124052.1"><vh>div</vh>
+<v t="ahshoe.20161030125625.1" a="E"><vh>div</vh>
+<v t="ahshoe.20161030125325.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030125651.1"><vh>a</vh></v>
+</v>
+<v t="ahshoe.20161030125633.1"><vh>div</vh>
+<v t="ahshoe.20161030125541.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030125811.1"><vh>a</vh></v>
+</v>
+</v>
+<v t="ahshoe.20161030131639.1"><vh>h2</vh></v>
+<v t="ahshoe.20161030131708.1"><vh>hr</vh></v>
+<v t="ahshoe.20161030130916.1" a="E"><vh>div</vh>
+<v t="ahshoe.20161030131003.1"><vh>h3</vh></v>
+<v t="ahshoe.20161030131447.1"><vh>ifram</vh></v>
+</v>
+</v>
+</v>
+<v t="ahshoe.20161029221610.1"><vh>footer</vh>
+<v t="ahshoe.20161029221111.262"><vh>div</vh>
 <v t="ahshoe.20161029221111.263"><vh>p</vh></v>
 <v t="ahshoe.20161029221111.264"><vh>p</vh></v>
 </v>
@@ -289,10 +360,7 @@
 <tnodes>
 <t tx="ahshoe.20161029100133.1">@language xml
 @tabwidth -4
-@others
-
-
-</t>
+@others</t>
 <t tx="ahshoe.20161029100327.1"></t>
 <t tx="ahshoe.20161029100547.1"></t>
 <t tx="ahshoe.20161029100635.1">This is a One Page Website for Mechanical Design Engineering.</t>
@@ -377,22 +445,17 @@ vertical: body pane on the botton</t>
 &lt;html lang="en"&gt;
 @others
 &lt;/html&gt;</t>
-<t tx="ahshoe.20161029221111.10">
-
-&lt;!--給手機按鈕使用的--&gt;
+<t tx="ahshoe.20161029221111.10">&lt;!--給手機按鈕使用的--&gt;
 &lt;button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"&gt;
 @others
 &lt;/button&gt;
 &lt;!--給手機按鈕使用的--&gt;
-&lt;!--  網站的Logo --&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.100">&lt;div id="milestones"&gt;
+&lt;!--  網站的Logo --&gt;</t>
+<t tx="ahshoe.20161029221111.100">&lt;!-- 第6個區塊 - 發展沿革 --&gt;
+&lt;div id="milestones"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第6個區塊 --&gt;
-  &lt;!-- 第7個區塊 - 學制現況 --&gt;
-</t>
+&lt;!-- 第6個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.101">
 
 &lt;div class="container"&gt;
@@ -424,10 +487,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.109">&lt;li&gt;八十七學年度改制為機械設計系，設立二技部，二專部停招。&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.11">
-
-&lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;
-</t>
+<t tx="ahshoe.20161029221111.11">&lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;</t>
 <t tx="ahshoe.20161029221111.110">&lt;li&gt;八十八學年度設立進修學院二技部。&lt;/li&gt;
 </t>
 <t tx="ahshoe.20161029221111.111">&lt;li&gt;九十學年度四技部開始招生。&lt;/li&gt;
@@ -438,12 +498,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.114">&lt;li&gt;九十八學年度起設立機械設計研究所碩士班。&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.115">&lt;div id="schooling"&gt;
+<t tx="ahshoe.20161029221111.115">&lt;!-- 第7個區塊 - 學制現況 --&gt;
+&lt;div id="schooling"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第7個區塊 --&gt;
-  &lt;!-- 第8個區塊 - 本科系歷任主任 --&gt;
-</t>
+&lt;!-- 第7個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.116">
 
 &lt;div class="container"&gt;
@@ -466,9 +525,7 @@ vertical: body pane on the botton</t>
 @others
 &lt;/div&gt;
 </t>
-<t tx="ahshoe.20161029221111.12">&lt;span class="icon-bar"&gt;&lt;/span&gt;
-          
-</t>
+<t tx="ahshoe.20161029221111.12">&lt;span class="icon-bar"&gt;&lt;/span&gt;</t>
 <t tx="ahshoe.20161029221111.120">
 &lt;h2&gt;學制現況&lt;/h2&gt;
 </t>
@@ -499,20 +556,17 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.129">&lt;li&gt;本系亦規劃多樣性的選修課程，提供學生多元學習之機會，同時配合特色實驗室之建構，擬增開設傳感元件原理與製程、壓電材料學、機電光系統整合設計與實作、機器視覺等課程以資配合教學。&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.13">&lt;span class="icon-bar"&gt;&lt;/span&gt;
-          
-</t>
+<t tx="ahshoe.20161029221111.13">&lt;span class="icon-bar"&gt;&lt;/span&gt;</t>
 <t tx="ahshoe.20161029221111.130">&lt;br&gt;
 &lt;h3&gt;跨領域學程&lt;/h3&gt;
 </t>
 <t tx="ahshoe.20161029221111.131">&lt;p class="lead"&gt;設有「機械設計、分析及檢測學程」。&lt;/p&gt;
 </t>
-<t tx="ahshoe.20161029221111.132">&lt;div id="master"&gt;
+<t tx="ahshoe.20161029221111.132">&lt;!-- 第8個區塊 - 本科系歷任主任 --&gt;
+&lt;div id="master"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第8個區塊 --&gt;
-  &lt;!-- 第9個區塊 - 科系發展 --&gt;
-</t>
+&lt;!-- 第8個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.133">
 
 &lt;div class="container"&gt;
@@ -540,9 +594,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.139">&lt;li&gt;朱博祥（71.8 ~ 72.7）&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.14">&lt;span class="icon-bar"&gt;&lt;/span&gt;
-        
-</t>
+<t tx="ahshoe.20161029221111.14">&lt;span class="icon-bar"&gt;&lt;/span&gt;</t>
 <t tx="ahshoe.20161029221111.140">&lt;li&gt;陳俊明（72.8 ~ 74.7）&lt;/li&gt;
 </t>
 <t tx="ahshoe.20161029221111.141">&lt;li&gt;賴福來（74.8 ~ 80.7）&lt;/li&gt;
@@ -563,31 +615,25 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.149">&lt;li&gt;陳建信（98.8 ~ 101.7）&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.15">&lt;a class="navbar-brand" href="http://www.nfu.edu.tw/zh/"&gt;虎尾科技大學&lt;/a&gt;
-          
-</t>
+<t tx="ahshoe.20161029221111.15">&lt;a class="navbar-brand" href="http://www.nfu.edu.tw/zh/"&gt;雲林虎尾科技大學&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.150">&lt;li&gt;周榮源（101.8 ~ 102.7）&lt;/li&gt;
 </t>
 <t tx="ahshoe.20161029221111.151">&lt;li&gt;何智廷（102.8 ~ 迄今）&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.152">&lt;div id="development"&gt;
+<t tx="ahshoe.20161029221111.152">&lt;!-- 第9個區塊 - 科系發展 --&gt;
+&lt;div id="development"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第9個區塊 --&gt;
-  &lt;!-- 第10個區塊 -  --&gt;
-</t>
+&lt;!-- 第9個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.153">
 
 &lt;div class="container"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="ahshoe.20161029221111.154">
-
-&lt;div class="row"&gt;
+<t tx="ahshoe.20161029221111.154">&lt;div class="row"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.155">
 &lt;h2&gt;科系發展&lt;/h2&gt;
 </t>
@@ -598,15 +644,11 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.158">&lt;div class="col-sm-6 text-center"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.159">
 &lt;h3&gt;精密機械/電子跨領域元件設計&lt;/h3&gt;
 </t>
-<t tx="ahshoe.20161029221111.16">&lt;a class="navbar-brand" href="#news"&gt;機械設計工程系&lt;/a&gt;
-        &lt;!--  網站的Logo --&gt;
-      
-</t>
+<t tx="ahshoe.20161029221111.16">&lt;a class="navbar-brand" href="#news"&gt;機械設計工程系&lt;/a&gt;&lt;!--  網站的Logo --&gt;</t>
 <t tx="ahshoe.20161029221111.160">&lt;p class="lead"&gt;同樣零敏度(Sensitivity)的感測器，操作頻率越高，其準確度與鑑別率便相對提升。表面聲波型感測器(SAW device)與薄膜型共振器(FBAR)操作頻率遠高於石英晶體振盪器，其敏感度與鑑別率優於石英晶體振盪器，且可利用微機電製程大量生產，縮小體積、降低成本。而具可撓式貼片性質的壓電式感測器之開發與檢測對於在輔具的機構致動器回饋設計中極為重要。因此，在現今復健輔具之技術發展中，創新小型化與靈敏度高的壓電振動式感知器的發展更顯現其重要性。&lt;/p&gt;
 </t>
 <t tx="ahshoe.20161029221111.161">&lt;div class="col-sm-6 text-center"&gt;
@@ -623,8 +665,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.165">&lt;div class="col-sm-6 text-center"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.166">
 &lt;h3&gt;精密機械/電子跨領域元件設計&lt;/h3&gt;
 </t>
@@ -641,9 +682,7 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.17">&lt;div id="navbar" class="navbar-collapse collapse"&gt;
 @others
 &lt;/div&gt;
-      &lt;!-- 一般用的網站選單列 --&gt;
-    
-</t>
+&lt;!-- 一般用的網站選單列 --&gt;</t>
 <t tx="ahshoe.20161029221111.170">&lt;br&gt;
 &lt;li&gt;需求性：以生理監控系統而言，人體體溫為許多人類特徵如舒適度、健康等之基礎。微型溫度感測器應用領域甚廣，其中包括在高溫環境中，像是鋼鐵業 、塑膠加工以及航太工業上需要的微型溫度感測器。在生物醫學方面，由於癌細胞及腫瘤組織的溫度較正常組織高，微型溫度感測器可用於不正常組織之診斷，溫度感測器實為監視生理狀況的一個重要之元件之一，並且可長時間監視身體機能喪失患者之身體生理狀況，減少護理照顧之疏忽並開創智慧性居家照顧醫療。&lt;/li&gt;
 </t>
@@ -667,69 +706,43 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.176">&lt;br&gt;
 &lt;li&gt;需求性：由於醫療技術的進步，延長壽命的同時，人口老化、慢性病患者急劇增加造成醫療照護人力與資金的嚴重負荷。使年老殘病者依然擁有正常人的感知與行為能力，可為一種提升人類生活品質並進而降低醫療支出的積極作法。&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.177">&lt;div id="teachers"&gt;
+<t tx="ahshoe.20161029221111.177">&lt;!-- 第10個區塊 - 師資陣容 --&gt;
+&lt;div id="teachers"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第10個區塊 --&gt;
-  &lt;!-- 第11個區塊 - 產學合作 --&gt;
-</t>
+&lt;!-- 第10個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.178">
 
 &lt;div class="container"&gt;
 @others
 &lt;/div&gt;
 </t>
-<t tx="ahshoe.20161029221111.179">
-&lt;h2&gt;師資陣容&lt;/h2&gt;
+<t tx="ahshoe.20161029221111.179">&lt;h2&gt;師資陣容&lt;/h2&gt;
 </t>
-<t tx="ahshoe.20161029221111.18">
-
-&lt;ul class="nav navbar-nav navbar-right"&gt;
+<t tx="ahshoe.20161029221111.18">&lt;ul class="nav navbar-nav navbar-right"&gt;
 @others
-&lt;/ul&gt;
+&lt;/ul&gt;</t>
+<t tx="ahshoe.20161029221111.180">&lt;script src="js/input_teachers.js"&gt;&lt;/script&gt;
 </t>
-<t tx="ahshoe.20161029221111.180">&lt;hr&gt;
-&lt;script src="js/input_teachers.js"&gt;&lt;/script&gt;
-</t>
-<t tx="ahshoe.20161029221111.19">
-
-&lt;li class="active"&gt;
+<t tx="ahshoe.20161029221111.19">&lt;li class="active"&gt;
 @others
-&lt;/li&gt;
-</t>
-<t tx="ahshoe.20161029221111.2">
-
-&lt;head&gt;
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.2">&lt;head&gt;
 @others
-&lt;/head&gt;
-</t>
-<t tx="ahshoe.20161029221111.20">
-&lt;a href="#home"&gt;首頁&lt;/a&gt;
-</t>
+&lt;/head&gt;</t>
+<t tx="ahshoe.20161029221111.20">&lt;a href="#home"&gt;首頁&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.21">&lt;li&gt;
 @others
-&lt;/li&gt;
-            
-</t>
-<t tx="ahshoe.20161029221111.22">
-&lt;a href="#intro"&gt;系所簡介&lt;/a&gt;
-</t>
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.22">&lt;a href="#intro"&gt;系所簡介&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.23">&lt;li&gt;
 @others
-&lt;/li&gt;
-            
-</t>
-<t tx="ahshoe.20161029221111.24">
-&lt;a href="#info"&gt;最新資訊&lt;/a&gt;
-</t>
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.24">&lt;a href="#info"&gt;最新資訊&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.25">&lt;li&gt;
 @others
-&lt;/li&gt;
-        
-</t>
-<t tx="ahshoe.20161029221111.26">
-&lt;a href="#about"&gt;關於我們&lt;/a&gt;
-</t>
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.26">&lt;a href="#about"&gt;關於我們&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.262">
 &lt;div class="container"&gt;
 @others
@@ -744,178 +757,101 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.265">&lt;ul class="nav pull-right scroll-top"&gt;
 @others
 &lt;/ul&gt;
-  &lt;!-- 回到上方的連結 --&gt;
-</t>
-<t tx="ahshoe.20161029221111.266">
-
-&lt;li&gt;
+  &lt;!-- 回到上方的連結 --&gt;</t>
+<t tx="ahshoe.20161029221111.266">&lt;li&gt;
 @others
-&lt;/li&gt;
-</t>
-<t tx="ahshoe.20161029221111.267">
-&lt;a href="#intro" title="回到導覽"&gt;
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.267">&lt;a href="#intro" title="回到導覽"&gt;
 @others
 &lt;/a&gt;
 </t>
 <t tx="ahshoe.20161029221111.268">
 &lt;i class="glyphicon glyphicon-chevron-up"&gt;&lt;/i&gt;
 </t>
-<t tx="ahshoe.20161029221111.27">&lt;div id="home" class="home"&gt;
+<t tx="ahshoe.20161029221111.27">&lt;!-- 第1個區塊 - 首頁 --&gt;
+&lt;div id="home" class="home"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第1個區塊 --&gt;
-  &lt;!-- 第2個區塊 - 最新消息 --&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.28">
-
-&lt;div class="text-vcenter"&gt;
+&lt;!-- 第1個區塊 --&gt;</t>
+<t tx="ahshoe.20161029221111.28">&lt;div class="text-vcenter"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.29">
-
-&lt;h1&gt;歡迎來到&lt;/h1&gt;
-</t>
-<t tx="ahshoe.20161029221111.3">
-
-&lt;meta charset="UTF-8"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.29">&lt;h1&gt;歡迎來到&lt;/h1&gt;</t>
+<t tx="ahshoe.20161029221111.3">&lt;meta charset="UTF-8"&gt;
 &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
 &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;
 &lt;link rel="icon" href="images/nfu.ico"&gt;
 &lt;title&gt;虎尾科技大學 - 機械設計工程系&lt;/title&gt;
-&lt;!-- css樣式 --&gt;
-</t>
+&lt;!-- css樣式 --&gt;</t>
 <t tx="ahshoe.20161029221111.30">&lt;h3&gt;
 @others
-&lt;/h3&gt;
-      
-</t>
-<t tx="ahshoe.20161029221111.31">
-虎尾科技大學&lt;br/&gt;機械設計工程系網站
-</t>
-<t tx="ahshoe.20161029221111.32">&lt;a href="#about" class="btn btn-default btn-lg"&gt;關於我們&lt;/a&gt;
-    
-</t>
-<t tx="ahshoe.20161029221111.33">&lt;div id="news" class="top-bottom-pad"&gt;
+&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.31">虎尾科技大學&lt;br/&gt;機械設計工程系網站</t>
+<t tx="ahshoe.20161029221111.32">&lt;a href="#about" class="btn btn-default btn-lg"&gt;關於我們&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.33">&lt;!-- 第2個區塊 - 幻燈片 --&gt;
+&lt;div id="news" class="top-bottom-pad"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第2個區塊 --&gt;
-  &lt;!-- 第3區塊 - 系所簡介 --&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.34">
-
-&lt;div class="container"&gt;
+&lt;!-- 第2個區塊 --&gt;</t>
+<t tx="ahshoe.20161029221111.34">&lt;div class="container"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.35">
-
-&lt;div id="carousel-example-generic" class="carousel slide"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.35">&lt;div id="carousel-example-generic" class="carousel slide" data-ride="carousel"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.36">
-
-&lt;!-- Indicators --&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.36">&lt;!-- Indicators --&gt;
 &lt;ol class="carousel-indicators"&gt;
 @others
 &lt;/ol&gt;
-&lt;!-- Wrapper for slides --&gt;
-</t>
-<t tx="ahshoe.20161029221111.37">
-
-&lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active"&gt;&lt;/li&gt;
-</t>
-<t tx="ahshoe.20161029221111.38">&lt;li data-target="#carousel-example-generic" data-slide-to="1"&gt;&lt;/li&gt;
-        
-</t>
-<t tx="ahshoe.20161029221111.39">&lt;li data-target="#carousel-example-generic" data-slide-to="2"&gt;&lt;/li&gt;
-      
-</t>
+&lt;!-- Wrapper for slides --&gt;</t>
+<t tx="ahshoe.20161029221111.37">&lt;li data-target="#carousel-example-generic" data-slide-to="0" class="active"&gt;&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.38">&lt;li data-target="#carousel-example-generic" data-slide-to="1"&gt;&lt;/li&gt;</t>
+<t tx="ahshoe.20161029221111.39">&lt;li data-target="#carousel-example-generic" data-slide-to="2"&gt;&lt;/li&gt;</t>
 <t tx="ahshoe.20161029221111.4">&lt;link href="css/bootstrap.min.css" rel="stylesheet"&gt;
   &lt;link href="css/custom.css" rel="stylesheet"&gt;
   &lt;!-- js函式庫 --&gt;
-  &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.40">&lt;div class="carousel-inner"&gt;
+  &lt;script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"&gt;&lt;/script&gt;</t>
+<t tx="ahshoe.20161029221111.40">&lt;div class="carousel-inner" role="listbox"&gt;
 @others
-&lt;/div&gt;
-    
-</t>
-<t tx="ahshoe.20161029221111.41">
-
-&lt;div class="item active"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.41">&lt;div class="item active"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.42">
-
-&lt;img src="images/mde_house.jpg" alt=""&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.42">&lt;img src="images/mde_house.jpg" alt=""&gt;
 &lt;div class="carousel-caption"&gt;
-  slide 1
-&lt;/div&gt;
-</t>
+slide 1
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.43">&lt;div class="item"&gt;
 @others
-&lt;/div&gt;
-        
-</t>
-<t tx="ahshoe.20161029221111.44">
-
-&lt;img src="images/mde_house.jpg" alt=""&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.44">&lt;img src="images/mde_house.jpg" alt=""&gt;
 &lt;div class="carousel-caption"&gt;
-      slide 2
-&lt;/div&gt;
-</t>
+slide 2
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.45">&lt;div class="item"&gt;
 @others
-&lt;/div&gt;
-      
-</t>
-<t tx="ahshoe.20161029221111.46">
-
-&lt;img src="images/mde_house.jpg" alt=""&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.46">&lt;img src="images/mde_house.jpg" alt=""&gt;
 &lt;div class="carousel-caption"&gt;
-      slide 3
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.47">&lt;div id="intro" class="top-bottom-pad"&gt;
+slide 3
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.47">&lt;!-- 第3區塊 - 系所簡介 --&gt;
+&lt;div id="intro" class="top-bottom-pad"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第3區塊 --&gt;
-  &lt;!-- 第4個區塊：最新資訊 --&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.48">
-
-&lt;div class="container"&gt;
+&lt;!-- 第3區塊 --&gt;</t>
+<t tx="ahshoe.20161029221111.48">&lt;div class="container"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.49">
-
-&lt;h2 class="text-center"&gt;系所簡介&lt;/h2&gt; 
-</t>
-<t tx="ahshoe.20161029221111.5">&lt;script src="js/bootstrap.min.js"&gt;&lt;/script&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.50">&lt;hr /&gt;
-      
-</t>
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.49">&lt;h2 class="text-center"&gt;系所簡介&lt;/h2&gt; </t>
+<t tx="ahshoe.20161029221111.5">&lt;script src="js/bootstrap.min.js"&gt;&lt;/script&gt;</t>
+<t tx="ahshoe.20161029221111.50">&lt;hr&gt;</t>
 <t tx="ahshoe.20161029221111.51">&lt;div class="row text-center"&gt;
 @others
-&lt;/div&gt;
-    
-</t>
-<t tx="ahshoe.20161029221111.52">
-
-&lt;div class="col-sm-3 col-xs-6"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.52">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.53">
 
 &lt;i class="glyphicon glyphicon-send"&gt; &lt;/i&gt;
@@ -929,9 +865,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.57">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-        
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.58">
 
 &lt;i class="glyphicon glyphicon-info-sign"&gt; &lt;/i&gt;
@@ -939,16 +873,14 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.59">&lt;h3&gt;學制現況&lt;/h3&gt;
           
 </t>
-<t tx="ahshoe.20161029221111.6">&lt;script src="js/custom.js"&gt;&lt;/script&gt;
-</t>
+<t tx="ahshoe.20161029221111.6">&lt;script src="js/custom.js"&gt;&lt;/script&gt;</t>
 <t tx="ahshoe.20161029221111.60">&lt;p&gt;關於現在的學習制度方案。&lt;/p&gt;
 </t>
 <t tx="ahshoe.20161029221111.61">&lt;a href="#schooling" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
 </t>
 <t tx="ahshoe.20161029221111.62">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.63">
 
 &lt;i class="glyphicon glyphicon-sort-by-attributes"&gt; &lt;/i&gt;
@@ -962,9 +894,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.67">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-      
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.68">
 
 &lt;i class="glyphicon glyphicon-thumbs-up"&gt; &lt;/i&gt;
@@ -974,25 +904,18 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.7">&lt;body background="images/background.jpg"&gt;
 @others
-&lt;/body&gt;
-</t>
+&lt;/body&gt;</t>
 <t tx="ahshoe.20161029221111.70">&lt;p&gt;本系針對未來環境的變革。&lt;/p&gt;
 </t>
 <t tx="ahshoe.20161029221111.71">&lt;a href="#development" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
 </t>
-<t tx="ahshoe.20161029221111.72">&lt;hr /&gt;
-      
-</t>
+<t tx="ahshoe.20161029221111.72">&lt;hr&gt;</t>
 <t tx="ahshoe.20161029221111.73">&lt;div class="row text-center"&gt;
 @others
-&lt;/div&gt;
-</t>
-<t tx="ahshoe.20161029221111.74">
-&lt;div class="col-sm-3 col-xs-6"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.74">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-      
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.75">
 
 &lt;i class="glyphicon glyphicon-leaf"&gt; &lt;/i&gt;
@@ -1006,18 +929,10 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.79">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-      
-</t>
-<t tx="ahshoe.20161029221111.8">
-
-&lt;nav class="navbar navbar-default navbar-fixed-top"&gt;
-  &lt;div class="container"&gt;
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161029221111.8">&lt;div class="container"&gt;
 @others
-&lt;/div&gt;
-&lt;/nav&gt;
-&lt;!-- 第1個區塊 - 首頁 --&gt;
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.80">
 
 &lt;i class="glyphicon glyphicon-briefcase"&gt; &lt;/i&gt;
@@ -1025,15 +940,13 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.81">&lt;h3&gt;產學合作&lt;/h3&gt;
           
 </t>
-<t tx="ahshoe.20161029221111.82">&lt;p&gt;產學攜手專班的相關資訊。&lt;/p&gt;
+<t tx="ahshoe.20161029221111.82">&lt;p&gt;產學攜手專班的相關資訊下載連結。&lt;/p&gt;
 </t>
 <t tx="ahshoe.20161029221111.83">&lt;a href="#iuc" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
 </t>
 <t tx="ahshoe.20161029221111.84">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
-&lt;/div&gt;
-      
-</t>
+&lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.85">
 
 &lt;i class="glyphicon glyphicon-screenshot"&gt; &lt;/i&gt;
@@ -1043,22 +956,17 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.87">&lt;p&gt;跟本系相關的網站。&lt;/p&gt;
 </t>
-<t tx="ahshoe.20161029221111.88">&lt;a href="#about" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
+<t tx="ahshoe.20161029221111.88">&lt;a href="#links" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
 </t>
-<t tx="ahshoe.20161029221111.89">&lt;div id="info" class="top-bottom-pad"&gt;
+<t tx="ahshoe.20161029221111.89">&lt;!-- 第4個區塊：最新資訊 --&gt;
+&lt;div id="info" class="top-bottom-pad"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第4個區塊 --&gt;
-  &lt;!-- 第5個區塊 - 關於我們 --&gt;
-  
-</t>
-<t tx="ahshoe.20161029221111.9">
-
-&lt;div class="navbar-header"&gt;
+&lt;!-- 第4個區塊 --&gt;</t>
+<t tx="ahshoe.20161029221111.9">&lt;div class="navbar-header"&gt;
 @others
 &lt;/div&gt;
-&lt;!-- 一般用的網站選單列 --&gt;
-</t>
+&lt;!-- 一般用的網站選單列 --&gt;</t>
 <t tx="ahshoe.20161029221111.90">
 
 &lt;div class="container"&gt;
@@ -1068,12 +976,11 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.91">
 &lt;script src="js/input_news.js"&gt;&lt;/script&gt;
 </t>
-<t tx="ahshoe.20161029221111.92">&lt;div id="about"&gt;
+<t tx="ahshoe.20161029221111.92">&lt;!-- 第5個區塊 - 關於我們 --&gt;
+&lt;div id="about"&gt;
 @others
 &lt;/div&gt;
-  &lt;!-- 第5個區塊 --&gt;
-  &lt;!-- 第6個區塊 - 發展沿革 --&gt;
-</t>
+&lt;!-- 第5個區塊 --&gt;</t>
 <t tx="ahshoe.20161029221111.93">
 
 &lt;div class="container"&gt;
@@ -1114,5 +1021,99 @@ vertical: body pane on the botton</t>
 &lt;/footer&gt;
 &lt;!-- 頁腳(footer) --&gt;
 &lt;!-- 回到上方的連結 --&gt;</t>
+<t tx="ahshoe.20161030112332.1">&lt;!-- 第11個區塊 - 產學合作 --&gt;
+&lt;div id="iuc"&gt;
+@others
+&lt;/div&gt;
+&lt;!-- 第11個區塊 --&gt;</t>
+<t tx="ahshoe.20161030112358.1">&lt;div class="container"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030113414.1">&lt;h2&gt;產學合作&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030113600.1">&lt;h3&gt;相關資源下載：&lt;/h3&gt;</t>
+<t tx="ahshoe.20161030113704.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161030120806.1">&lt;div class="row"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030120837.1">&lt;div class="row"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030120849.1">&lt;div class="col-sm-4 text-center"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030120932.1">&lt;div class="col-sm-4 text-center"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030120938.1">&lt;div class="col-sm-4 text-center"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030121026.1">&lt;h3&gt;行事曆&lt;/h3&gt;</t>
+<t tx="ahshoe.20161030121133.1">&lt;h3&gt;課表&lt;/h3&gt;</t>
+<t tx="ahshoe.20161030121159.1">&lt;h3&gt;其他&lt;/h3&gt;</t>
+<t tx="ahshoe.20161030121352.1">&lt;a href="https://www.nfu.edu.tw/zh/nfu-calendar/download/53_3139ec7aff9457b655ca52a874caa070" title="點擊下載" class="btn btn-default btn-lg"&gt;104學年度行事曆&lt;/a&gt;</t>
+<t tx="ahshoe.20161030121653.2">&lt;a href="https://www.nfu.edu.tw/zh/nfu-calendar/download/562_ee3327d1065962de62652e932a99b8c2" title="點擊下載" class="btn btn-default btn-lg"&gt;105學年度行事曆&lt;/a&gt;</t>
+<t tx="ahshoe.20161030122023.3">&lt;a href="http://osa.nfu.edu.tw/query/timetable.php" title="點擊進入" class="btn btn-default btn-lg"&gt;教務查詢整合平台 - 課表查詢&lt;/a&gt;</t>
+<t tx="ahshoe.20161030122548.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s1.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;補發學生證申請表&lt;/a&gt;</t>
+<t tx="ahshoe.20161030122550.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s2.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;補發學生證切結書&lt;/a&gt;</t>
+<t tx="ahshoe.20161030122552.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s3.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;學生請假單&lt;/a&gt;</t>
+<t tx="ahshoe.20161030122610.1">&lt;br&gt;</t>
+<t tx="ahshoe.20161030122622.1">&lt;br&gt;</t>
+<t tx="ahshoe.20161030122625.1">&lt;br&gt;</t>
+<t tx="ahshoe.20161030123035.1">&lt;!-- 第12個區塊 - 相關連結 --&gt;
+&lt;div id="links"&gt;
+@others
+&lt;/div&gt;
+&lt;!-- 第12個區塊 --&gt;</t>
+<t tx="ahshoe.20161030123101.1">&lt;div class="container"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030123303.1">&lt;h2&gt;相關連結&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030123438.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161030124052.1">&lt;div class="row"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030125004.1">&lt;p class="lead"&gt;
+@others
+&lt;/p&gt;</t>
+<t tx="ahshoe.20161030125030.1">&lt;p class="lead"&gt;
+@others
+&lt;/p&gt;</t>
+<t tx="ahshoe.20161030125325.1">&lt;h2&gt;機械綜合加工廠&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030125541.1">&lt;h2&gt;新產品創意設計中心&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030125625.1">&lt;div class="col-sm-4 text-center"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030125633.1">&lt;div class="col-sm-4 text-center"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030125651.1">&lt;a href="http://sparc.nfu.edu.tw/~jms/project/index.php" title="點擊進入" class="btn btn-info btn-lg"&gt;連結&lt;/a&gt;</t>
+<t tx="ahshoe.20161030125811.1">&lt;a href="http://sparc.nfu.edu.tw/~bga0823/index.html" title="點擊進入" class="btn btn-info btn-lg"&gt;連結&lt;/a&gt;</t>
+<t tx="ahshoe.20161030130222.1">&lt;div class="col-sm-3 col-xs-6"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030130222.2">&lt;i class="glyphicon glyphicon-star-empty"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161030130222.3">&lt;h3&gt;招生訊息&lt;/h3&gt;</t>
+<t tx="ahshoe.20161030130222.4">&lt;p&gt;本校教務處的招生訊息。&lt;/p&gt;</t>
+<t tx="ahshoe.20161030130222.5">&lt;a href="http://nfuaca.nfu.edu.tw/index.php/zh/admission" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
+<t tx="ahshoe.20161030130757.1">&lt;nav class="navbar navbar-default navbar-fixed-top"&gt;
+@others
+&lt;/nav&gt;</t>
+<t tx="ahshoe.20161030130916.1">&lt;div class="row"&gt;
+@others
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161030131003.1">&lt;h2&gt;機械設計工程系系學會&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030131447.1">&lt;iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNFUMDE%2F&amp;tabs=timeline&amp;width=450&amp;height=554&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="450" height="554" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"&gt;&lt;/iframe&gt;</t>
+<t tx="ahshoe.20161030131639.1">&lt;h2&gt;粉絲專頁&lt;/h2&gt;</t>
+<t tx="ahshoe.20161030131708.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161030134400.1">&lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"&gt;
+@others
+&lt;/a&gt;</t>
+<t tx="ahshoe.20161030134446.1">&lt;span class="glyphicon glyphicon-chevron-left" aria-hidden="true"&gt;&lt;/span&gt;</t>
+<t tx="ahshoe.20161030134507.1">&lt;span class="sr-only"&gt;Previous&lt;/span&gt;</t>
+<t tx="ahshoe.20161030134530.1">&lt;a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"&gt;
+@others
+&lt;/a&gt;</t>
+<t tx="ahshoe.20161030134600.1">&lt;span class="glyphicon glyphicon-chevron-right" aria-hidden="true"&gt;&lt;/span&gt;</t>
+<t tx="ahshoe.20161030134617.1">&lt;span class="sr-only"&gt;Next&lt;/span&gt;</t>
 </tnodes>
 </leo_file>
