@@ -24,7 +24,7 @@
 <v t="ahshoe.20161029221111.6"><vh>script</vh></v>
 </v>
 <v t="ahshoe.20161029221111.7" a="E"><vh>body</vh>
-<v t="ahshoe.20161030130757.1" a="E"><vh>nav</vh>
+<v t="ahshoe.20161030130757.1"><vh>nav</vh>
 <v t="ahshoe.20161029221111.8"><vh>div</vh>
 <v t="ahshoe.20161029221111.9"><vh>div</vh>
 <v t="ahshoe.20161029221111.10"><vh>button</vh>
@@ -63,32 +63,24 @@
 <v t="ahshoe.20161029221111.32"><vh>a</vh></v>
 </v>
 </v>
-<v t="ahshoe.20161029221111.33" a="E"><vh>div</vh>
-<v t="ahshoe.20161029221111.34" a="E"><vh>div</vh>
-<v t="ahshoe.20161029221111.35" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.33"><vh>div</vh>
+<v t="ahshoe.20161029221111.34"><vh>div</vh>
+<v t="ahshoe.20161029221111.35"><vh>div</vh>
 <v t="ahshoe.20161029221111.36"><vh>ol</vh>
 <v t="ahshoe.20161029221111.37"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.38"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.39"><vh>li</vh></v>
 </v>
 <v t="ahshoe.20161029221111.40"><vh>div</vh>
-<v t="ahshoe.20161029221111.41" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.41"><vh>div</vh>
 <v t="ahshoe.20161029221111.42"><vh>div</vh></v>
 </v>
-<v t="ahshoe.20161029221111.43" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.43"><vh>div</vh>
 <v t="ahshoe.20161029221111.44"><vh>div</vh></v>
 </v>
-<v t="ahshoe.20161029221111.45" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.45"><vh>div</vh>
 <v t="ahshoe.20161029221111.46"><vh>div</vh></v>
 </v>
-</v>
-<v t="ahshoe.20161030134400.1"><vh>a</vh>
-<v t="ahshoe.20161030134446.1"><vh>span</vh></v>
-<v t="ahshoe.20161030134507.1"><vh>span</vh></v>
-</v>
-<v t="ahshoe.20161030134530.1" a="E"><vh>a</vh>
-<v t="ahshoe.20161030134600.1"><vh>span</vh></v>
-<v t="ahshoe.20161030134617.1"><vh>span</vh></v>
 </v>
 </v>
 </v>
@@ -289,20 +281,23 @@
 <v t="ahshoe.20161030120837.1"><vh>div</vh>
 <v t="ahshoe.20161030120849.1"><vh>div</vh>
 <v t="ahshoe.20161030121026.1"><vh>h3</vh></v>
+<v t="ahshoe.20161101220204.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030121352.1"><vh>a</vh></v>
-<v t="ahshoe.20161030122610.1"><vh>br</vh></v>
+<v t="ahshoe.20161030122610.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030121653.2"><vh>a</vh></v>
 </v>
 <v t="ahshoe.20161030120932.1"><vh>div</vh>
 <v t="ahshoe.20161030121133.1"><vh>h3</vh></v>
+<v t="ahshoe.20161101220209.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030122023.3"><vh>a</vh></v>
 </v>
 <v t="ahshoe.20161030120938.1"><vh>div</vh>
 <v t="ahshoe.20161030121159.1"><vh>h3</vh></v>
+<v t="ahshoe.20161101220215.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030122548.1"><vh>a</vh></v>
-<v t="ahshoe.20161030122622.1"><vh>br</vh></v>
+<v t="ahshoe.20161101220217.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030122550.1"><vh>a</vh></v>
-<v t="ahshoe.20161030122625.1"><vh>br</vh></v>
+<v t="ahshoe.20161101220219.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030122552.1"><vh>a</vh></v>
 </v>
 </v>
@@ -313,7 +308,7 @@
 <v t="ahshoe.20161030123303.1"><vh>h2</vh></v>
 <v t="ahshoe.20161030123438.1"><vh>hr</vh></v>
 <v t="ahshoe.20161030124052.1"><vh>div</vh>
-<v t="ahshoe.20161030125625.1" a="E"><vh>div</vh>
+<v t="ahshoe.20161030125625.1"><vh>div</vh>
 <v t="ahshoe.20161030125325.1"><vh>h3</vh></v>
 <v t="ahshoe.20161030125651.1"><vh>a</vh></v>
 </v>
@@ -321,10 +316,14 @@
 <v t="ahshoe.20161030125541.1"><vh>h3</vh></v>
 <v t="ahshoe.20161030125811.1"><vh>a</vh></v>
 </v>
+<v t="ahshoe.20161101222500.1"><vh>div</vh>
+<v t="ahshoe.20161101222519.1"><vh>h3</vh></v>
+<v t="ahshoe.20161101222531.1"><vh>a</vh></v>
+</v>
 </v>
 <v t="ahshoe.20161030131639.1"><vh>h2</vh></v>
 <v t="ahshoe.20161030131708.1"><vh>hr</vh></v>
-<v t="ahshoe.20161030130916.1" a="E"><vh>div</vh>
+<v t="ahshoe.20161030130916.1"><vh>div</vh>
 <v t="ahshoe.20161030131003.1"><vh>h3</vh></v>
 <v t="ahshoe.20161030131447.1"><vh>ifram</vh></v>
 </v>
@@ -363,7 +362,7 @@
 @others</t>
 <t tx="ahshoe.20161029100327.1"></t>
 <t tx="ahshoe.20161029100547.1"></t>
-<t tx="ahshoe.20161029100635.1">This is a One Page Website for Mechanical Design Engineering.</t>
+<t tx="ahshoe.20161029100635.1">This is a One Page Website for Mechanical Design Engineering Department.</t>
 <t tx="ahshoe.20161029100754.1"></t>
 <t tx="ahshoe.20161029100754.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -648,7 +647,7 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.159">
 &lt;h3&gt;精密機械/電子跨領域元件設計&lt;/h3&gt;
 </t>
-<t tx="ahshoe.20161029221111.16">&lt;a class="navbar-brand" href="#news"&gt;機械設計工程系&lt;/a&gt;&lt;!--  網站的Logo --&gt;</t>
+<t tx="ahshoe.20161029221111.16">&lt;a class="navbar-brand" href="#slideshow"&gt;機械設計工程系&lt;/a&gt;&lt;!--  網站的Logo --&gt;</t>
 <t tx="ahshoe.20161029221111.160">&lt;p class="lead"&gt;同樣零敏度(Sensitivity)的感測器，操作頻率越高，其準確度與鑑別率便相對提升。表面聲波型感測器(SAW device)與薄膜型共振器(FBAR)操作頻率遠高於石英晶體振盪器，其敏感度與鑑別率優於石英晶體振盪器，且可利用微機電製程大量生產，縮小體積、降低成本。而具可撓式貼片性質的壓電式感測器之開發與檢測對於在輔具的機構致動器回饋設計中極為重要。因此，在現今復健輔具之技術發展中，創新小型化與靈敏度高的壓電振動式感知器的發展更顯現其重要性。&lt;/p&gt;
 </t>
 <t tx="ahshoe.20161029221111.161">&lt;div class="col-sm-6 text-center"&gt;
@@ -789,7 +788,7 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.31">虎尾科技大學&lt;br/&gt;機械設計工程系網站</t>
 <t tx="ahshoe.20161029221111.32">&lt;a href="#about" class="btn btn-default btn-lg"&gt;關於我們&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.33">&lt;!-- 第2個區塊 - 幻燈片 --&gt;
-&lt;div id="news" class="top-bottom-pad"&gt;
+&lt;div id="slideshow" class="top-bottom-pad"&gt;
 @others
 &lt;/div&gt;
 &lt;!-- 第2個區塊 --&gt;</t>
@@ -852,63 +851,35 @@ slide 3
 <t tx="ahshoe.20161029221111.52">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.53">
-
-&lt;i class="glyphicon glyphicon-send"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.54">&lt;h3&gt;發展沿革&lt;/h3&gt;
-          
-</t>
-<t tx="ahshoe.20161029221111.55">&lt;p&gt;機械設計系的發展歷史。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.56">&lt;a href="#milestones" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.53">&lt;i class="glyphicon glyphicon-send"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.54">&lt;h3&gt;發展沿革&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.55">&lt;p&gt;機械設計系的發展歷史。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.56">&lt;a href="#milestones" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.57">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.58">
-
-&lt;i class="glyphicon glyphicon-info-sign"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.59">&lt;h3&gt;學制現況&lt;/h3&gt;
-          
-</t>
+<t tx="ahshoe.20161029221111.58">&lt;i class="glyphicon glyphicon-info-sign"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.59">&lt;h3&gt;學制現況&lt;/h3&gt;</t>
 <t tx="ahshoe.20161029221111.6">&lt;script src="js/custom.js"&gt;&lt;/script&gt;</t>
-<t tx="ahshoe.20161029221111.60">&lt;p&gt;關於現在的學習制度方案。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.61">&lt;a href="#schooling" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.60">&lt;p&gt;關於現在的學習制度方案。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.61">&lt;a href="#schooling" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.62">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.63">
-
-&lt;i class="glyphicon glyphicon-sort-by-attributes"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.64">&lt;h3&gt;本科系歷任主任&lt;/h3&gt;
-          
-</t>
-<t tx="ahshoe.20161029221111.65">&lt;p&gt;系上歷屆主任的名單。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.66">&lt;a href="#master" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.63">&lt;i class="glyphicon glyphicon-sort-by-attributes"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.64">&lt;h3&gt;本科系歷任主任&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.65">&lt;p&gt;系上歷屆主任的名單。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.66">&lt;a href="#master" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.67">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.68">
-
-&lt;i class="glyphicon glyphicon-thumbs-up"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.69">&lt;h3&gt;科系發展&lt;/h3&gt;
-          
-</t>
+<t tx="ahshoe.20161029221111.68">&lt;i class="glyphicon glyphicon-thumbs-up"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.69">&lt;h3&gt;科系發展&lt;/h3&gt;</t>
 <t tx="ahshoe.20161029221111.7">&lt;body background="images/background.jpg"&gt;
 @others
 &lt;/body&gt;</t>
-<t tx="ahshoe.20161029221111.70">&lt;p&gt;本系針對未來環境的變革。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.71">&lt;a href="#development" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.70">&lt;p&gt;本系針對未來環境的變革。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.71">&lt;a href="#development" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.72">&lt;hr&gt;</t>
 <t tx="ahshoe.20161029221111.73">&lt;div class="row text-center"&gt;
 @others
@@ -916,48 +887,27 @@ slide 3
 <t tx="ahshoe.20161029221111.74">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.75">
-
-&lt;i class="glyphicon glyphicon-leaf"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.76">&lt;h3&gt;師資陣容&lt;/h3&gt;
-          
-</t>
-<t tx="ahshoe.20161029221111.77">&lt;p&gt;各專業科目的任用教師。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.78">&lt;a href="#teachers" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.75">&lt;i class="glyphicon glyphicon-leaf"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.76">&lt;h3&gt;師資陣容&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.77">&lt;p&gt;各專業科目的任用教師。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.78">&lt;a href="#teachers" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.79">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.8">&lt;div class="container"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.80">
-
-&lt;i class="glyphicon glyphicon-briefcase"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.81">&lt;h3&gt;產學合作&lt;/h3&gt;
-          
-</t>
-<t tx="ahshoe.20161029221111.82">&lt;p&gt;產學攜手專班的相關資訊下載連結。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.83">&lt;a href="#iuc" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.80">&lt;i class="glyphicon glyphicon-briefcase"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.81">&lt;h3&gt;產學合作&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.82">&lt;p&gt;產學攜手專班的相關資訊下載連結。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.83">&lt;a href="#iuc" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.84">&lt;div class="col-sm-3 col-xs-6"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.85">
-
-&lt;i class="glyphicon glyphicon-screenshot"&gt; &lt;/i&gt;
-</t>
-<t tx="ahshoe.20161029221111.86">&lt;h3&gt;相關連結&lt;/h3&gt;
-          
-</t>
-<t tx="ahshoe.20161029221111.87">&lt;p&gt;跟本系相關的網站。&lt;/p&gt;
-</t>
-<t tx="ahshoe.20161029221111.88">&lt;a href="#links" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;
-</t>
+<t tx="ahshoe.20161029221111.85">&lt;i class="glyphicon glyphicon-screenshot"&gt; &lt;/i&gt;</t>
+<t tx="ahshoe.20161029221111.86">&lt;h3&gt;相關連結&lt;/h3&gt;</t>
+<t tx="ahshoe.20161029221111.87">&lt;p&gt;本系相關的網站及系學會粉絲專頁。&lt;/p&gt;</t>
+<t tx="ahshoe.20161029221111.88">&lt;a href="#links" class="btn btn-default btn-lg"&gt;觀看內容&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.89">&lt;!-- 第4個區塊：最新資訊 --&gt;
 &lt;div id="info" class="top-bottom-pad"&gt;
 @others
@@ -1056,9 +1006,7 @@ slide 3
 <t tx="ahshoe.20161030122548.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s1.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;補發學生證申請表&lt;/a&gt;</t>
 <t tx="ahshoe.20161030122550.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s2.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;補發學生證切結書&lt;/a&gt;</t>
 <t tx="ahshoe.20161030122552.1">&lt;a href="http://design.nfu.edu.tw/ezfiles/36/1036/img/46/s3.pdf" title="點擊進入" class="btn btn-default btn-lg"&gt;學生請假單&lt;/a&gt;</t>
-<t tx="ahshoe.20161030122610.1">&lt;br&gt;</t>
-<t tx="ahshoe.20161030122622.1">&lt;br&gt;</t>
-<t tx="ahshoe.20161030122625.1">&lt;br&gt;</t>
+<t tx="ahshoe.20161030122610.1">&lt;hr&gt;</t>
 <t tx="ahshoe.20161030123035.1">&lt;!-- 第12個區塊 - 相關連結 --&gt;
 &lt;div id="links"&gt;
 @others
@@ -1105,15 +1053,15 @@ slide 3
 <t tx="ahshoe.20161030131447.1">&lt;iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FNFUMDE%2F&amp;tabs=timeline&amp;width=450&amp;height=554&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false&amp;appId" width="450" height="554" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"&gt;&lt;/iframe&gt;</t>
 <t tx="ahshoe.20161030131639.1">&lt;h2&gt;粉絲專頁&lt;/h2&gt;</t>
 <t tx="ahshoe.20161030131708.1">&lt;hr&gt;</t>
-<t tx="ahshoe.20161030134400.1">&lt;a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev"&gt;
+<t tx="ahshoe.20161101220204.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161101220209.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161101220215.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161101220217.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161101220219.1">&lt;hr&gt;</t>
+<t tx="ahshoe.20161101222500.1">&lt;div class="col-sm-4 text-center"&gt;
 @others
-&lt;/a&gt;</t>
-<t tx="ahshoe.20161030134446.1">&lt;span class="glyphicon glyphicon-chevron-left" aria-hidden="true"&gt;&lt;/span&gt;</t>
-<t tx="ahshoe.20161030134507.1">&lt;span class="sr-only"&gt;Previous&lt;/span&gt;</t>
-<t tx="ahshoe.20161030134530.1">&lt;a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next"&gt;
-@others
-&lt;/a&gt;</t>
-<t tx="ahshoe.20161030134600.1">&lt;span class="glyphicon glyphicon-chevron-right" aria-hidden="true"&gt;&lt;/span&gt;</t>
-<t tx="ahshoe.20161030134617.1">&lt;span class="sr-only"&gt;Next&lt;/span&gt;</t>
+&lt;/div&gt;</t>
+<t tx="ahshoe.20161101222519.1">&lt;h2&gt;工程學院&lt;/h2&gt;</t>
+<t tx="ahshoe.20161101222531.1">&lt;a href="http://engcollege.nfu.edu.tw/" title="點擊進入" class="btn btn-info btn-lg"&gt;連結&lt;/a&gt;</t>
 </tnodes>
 </leo_file>

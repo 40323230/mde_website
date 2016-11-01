@@ -43,6 +43,12 @@ body{
   background-size : cover;
 }
 
+/* 第2個區塊的幻燈片用*/
+#slideshow .carousel-inner > .item > img{
+  margin : 0 auto;
+  width : 1000px;
+}
+
 /* 第3個區塊用*/
 #intro{
   background-color : #306d9f;
