@@ -73,13 +73,22 @@
 </v>
 <v t="ahshoe.20161029221111.40"><vh>div</vh>
 <v t="ahshoe.20161029221111.41"><vh>div</vh>
-<v t="ahshoe.20161029221111.42"><vh>div</vh></v>
+<v t="ahshoe.20161102083457.1"><vh>img</vh></v>
+<v t="ahshoe.20161029221111.42"><vh>div</vh>
+<v t="ahshoe.20161102083605.1"><vh>h3</vh></v>
+</v>
 </v>
 <v t="ahshoe.20161029221111.43"><vh>div</vh>
-<v t="ahshoe.20161029221111.44"><vh>div</vh></v>
+<v t="ahshoe.20161102083518.1"><vh>img</vh></v>
+<v t="ahshoe.20161029221111.44"><vh>div</vh>
+<v t="ahshoe.20161102083649.1"><vh>h3</vh></v>
+</v>
 </v>
 <v t="ahshoe.20161029221111.45"><vh>div</vh>
-<v t="ahshoe.20161029221111.46"><vh>div</vh></v>
+<v t="ahshoe.20161102083529.1"><vh>img</vh></v>
+<v t="ahshoe.20161029221111.46"><vh>div</vh>
+<v t="ahshoe.20161102083726.1"><vh>h3</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -816,23 +825,20 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.41">&lt;div class="item active"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.42">&lt;img src="images/mde_house.jpg" alt=""&gt;
-&lt;div class="carousel-caption"&gt;
-slide 1
+<t tx="ahshoe.20161029221111.42">&lt;div class="carousel-caption"&gt;
+@others
 &lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.43">&lt;div class="item"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.44">&lt;img src="images/mde_house.jpg" alt=""&gt;
-&lt;div class="carousel-caption"&gt;
-slide 2
+<t tx="ahshoe.20161029221111.44">&lt;div class="carousel-caption"&gt;
+@others
 &lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.45">&lt;div class="item"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.46">&lt;img src="images/mde_house.jpg" alt=""&gt;
-&lt;div class="carousel-caption"&gt;
-slide 3
+<t tx="ahshoe.20161029221111.46">&lt;div class="carousel-caption"&gt;
+@others
 &lt;/div&gt;</t>
 <t tx="ahshoe.20161029221111.47">&lt;!-- 第3區塊 - 系所簡介 --&gt;
 &lt;div id="intro" class="top-bottom-pad"&gt;
@@ -1063,5 +1069,11 @@ slide 3
 &lt;/div&gt;</t>
 <t tx="ahshoe.20161101222519.1">&lt;h2&gt;工程學院&lt;/h2&gt;</t>
 <t tx="ahshoe.20161101222531.1">&lt;a href="http://engcollege.nfu.edu.tw/" title="點擊進入" class="btn btn-info btn-lg"&gt;連結&lt;/a&gt;</t>
+<t tx="ahshoe.20161102083457.1">&lt;img src="images/slideshow/mde_house.jpg" alt=""&gt;</t>
+<t tx="ahshoe.20161102083518.1">&lt;img src="images/slideshow/night.jpg" alt=""&gt;</t>
+<t tx="ahshoe.20161102083529.1">&lt;img src="images/slideshow/front.jpg" alt=""&gt;</t>
+<t tx="ahshoe.20161102083605.1">&lt;h3&gt;Date&lt;/h3&gt;</t>
+<t tx="ahshoe.20161102083649.1">&lt;h3&gt;Night&lt;/h3&gt;</t>
+<t tx="ahshoe.20161102083726.1">&lt;h3&gt;Front&lt;/h3&gt;</t>
 </tnodes>
 </leo_file>
