@@ -24,9 +24,9 @@
 <v t="ahshoe.20161029221111.6"><vh>script</vh></v>
 </v>
 <v t="ahshoe.20161029221111.7" a="E"><vh>body</vh>
-<v t="ahshoe.20161030130757.1"><vh>nav</vh>
-<v t="ahshoe.20161029221111.8"><vh>div</vh>
-<v t="ahshoe.20161029221111.9"><vh>div</vh>
+<v t="ahshoe.20161030130757.1" a="E"><vh>nav</vh>
+<v t="ahshoe.20161029221111.8" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.9" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.10"><vh>button</vh>
 <v t="ahshoe.20161029221111.11"><vh>span</vh></v>
 <v t="ahshoe.20161029221111.12"><vh>span</vh></v>
@@ -50,6 +50,9 @@
 <v t="ahshoe.20161029221111.25"><vh>li</vh>
 <v t="ahshoe.20161029221111.26"><vh>a</vh></v>
 </v>
+<v t="ahshoe.20161102095524.1"><vh>li</vh>
+<v t="ahshoe.20161102095524.2"><vh>a</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -65,7 +68,7 @@
 </v>
 <v t="ahshoe.20161029221111.33"><vh>div</vh>
 <v t="ahshoe.20161029221111.34"><vh>div</vh>
-<v t="ahshoe.20161029221111.35"><vh>div</vh>
+<v t="ahshoe.20161029221111.35" a="E"><vh>div</vh>
 <v t="ahshoe.20161029221111.36"><vh>ol</vh>
 <v t="ahshoe.20161029221111.37"><vh>li</vh></v>
 <v t="ahshoe.20161029221111.38"><vh>li</vh></v>
@@ -623,7 +626,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="ahshoe.20161029221111.149">&lt;li&gt;陳建信（98.8 ~ 101.7）&lt;/li&gt;
 </t>
-<t tx="ahshoe.20161029221111.15">&lt;a class="navbar-brand" href="http://www.nfu.edu.tw/zh/"&gt;雲林虎尾科技大學&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.15">&lt;a class="navbar-brand" href="http://www.nfu.edu.tw/zh/"&gt;虎尾科技大學&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.150">&lt;li&gt;周榮源（101.8 ~ 102.7）&lt;/li&gt;
 </t>
 <t tx="ahshoe.20161029221111.151">&lt;li&gt;何智廷（102.8 ~ 迄今）&lt;/li&gt;
@@ -738,19 +741,19 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.2">&lt;head&gt;
 @others
 &lt;/head&gt;</t>
-<t tx="ahshoe.20161029221111.20">&lt;a href="#home"&gt;首頁&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.20">&lt;a href="#home" title="回到首頁"&gt;首頁&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.21">&lt;li&gt;
 @others
 &lt;/li&gt;</t>
-<t tx="ahshoe.20161029221111.22">&lt;a href="#intro"&gt;系所簡介&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.22">&lt;a href="#intro" title="內容導覽頁"&gt;系所簡介&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.23">&lt;li&gt;
 @others
 &lt;/li&gt;</t>
-<t tx="ahshoe.20161029221111.24">&lt;a href="#info"&gt;最新資訊&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.24">&lt;a href="#info" title="關於機械設計的最新情報"&gt;最新資訊&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.25">&lt;li&gt;
 @others
 &lt;/li&gt;</t>
-<t tx="ahshoe.20161029221111.26">&lt;a href="#about"&gt;關於我們&lt;/a&gt;</t>
+<t tx="ahshoe.20161029221111.26">&lt;a href="#about" title="有關本系所的資訊"&gt;關於我們&lt;/a&gt;</t>
 <t tx="ahshoe.20161029221111.262">
 &lt;div class="container"&gt;
 @others
@@ -765,7 +768,7 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.265">&lt;ul class="nav pull-right scroll-top"&gt;
 @others
 &lt;/ul&gt;
-  &lt;!-- 回到上方的連結 --&gt;</t>
+&lt;!-- 回到上方的連結 --&gt;</t>
 <t tx="ahshoe.20161029221111.266">&lt;li&gt;
 @others
 &lt;/li&gt;</t>
@@ -1075,5 +1078,9 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161102083605.1">&lt;h3&gt;Date&lt;/h3&gt;</t>
 <t tx="ahshoe.20161102083649.1">&lt;h3&gt;Night&lt;/h3&gt;</t>
 <t tx="ahshoe.20161102083726.1">&lt;h3&gt;Front&lt;/h3&gt;</t>
+<t tx="ahshoe.20161102095524.1">&lt;li&gt;
+@others
+&lt;/li&gt;</t>
+<t tx="ahshoe.20161102095524.2">&lt;a class="github" href="https://github.com/40323230/mde_website" title="Github Repository"&gt;Github倉儲&lt;/a&gt;</t>
 </tnodes>
 </leo_file>

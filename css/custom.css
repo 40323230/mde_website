@@ -10,6 +10,17 @@ html, body{
 body{
   padding-top : 50px;
 }
+body .navbar-header .navbar-brand{
+  font-size : 18px;
+}
+#navbar .github{
+  color : #ffffff;
+  background-color : #000000;
+}
+#navbar .github:hover{
+  color : #DDDDDD;
+  background-color : #888888;
+}
 
 /* 拉大間距 */
 .top-bottom-pad{

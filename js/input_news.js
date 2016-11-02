@@ -1,4 +1,3 @@
-
 var news_list = [
     {
         titles_text:"2016 第九屆生物機電盃田間機器人競賽公告",
