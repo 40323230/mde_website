@@ -353,14 +353,14 @@
 </v>
 </v>
 </v>
-<v t="ahshoe.20161029221610.1" a="E"><vh>footer</vh>
-<v t="ahshoe.20161029221111.262" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221610.1"><vh>footer</vh>
+<v t="ahshoe.20161029221111.262"><vh>div</vh>
 <v t="ahshoe.20161029221111.263"><vh>p</vh></v>
 <v t="ahshoe.20161029221111.264"><vh>p</vh></v>
 </v>
 </v>
-<v t="ahshoe.20161029221111.265" a="E"><vh>ul</vh>
-<v t="ahshoe.20161029221111.266" a="E"><vh>li</vh>
+<v t="ahshoe.20161029221111.265"><vh>ul</vh>
+<v t="ahshoe.20161029221111.266"><vh>li</vh>
 <v t="ahshoe.20161029221111.267" a="E"><vh>a</vh>
 <v t="ahshoe.20161029221111.268"><vh>i</vh></v>
 </v>

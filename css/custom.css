@@ -15,11 +15,17 @@ body .navbar-header .navbar-brand{
 }
 #navbar .github{
   color : #DDDDDD;
-  background-color : #000000;
+  background : -webkit-linear-gradient(#3A0088, #000000);
+  background : -o-linear-gradient(#3A0088, #000000);
+  background : -moz-linear-gradient(#3A0088, #000000);
+  background : linear-gradient(#3A0088, #000000);
 }
 #navbar .github:hover{
   color : #DDDDDD;
-  background-color : #888888;
+  background : -webkit-linear-gradient(#3A0088, #444444);
+  background : -o-linear-gradient(#3A0088, #444444);
+  background : -moz-linear-gradient(#3A0088, #444444);
+  background : linear-gradient(#3A0088, #444444);
 }
 
 /* 拉大間距 */
