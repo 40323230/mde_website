@@ -15,6 +15,7 @@
 </v>
 <v t="ahshoe.20161029100635.1"><vh>One Page Website for MDE</vh></v>
 <v t="ahshoe.20161029100845.1" a="E"><vh>@path ./</vh>
+<v t="ahshoe.20161105143614.1"><vh>@edit README.md</vh></v>
 <v t="ahshoe.20161029100133.1" a="E"><vh>@clean index.html</vh>
 <v t="ahshoe.20161029221111.1" a="E"><vh>html</vh>
 <v t="ahshoe.20161029221111.2"><vh>head</vh>
@@ -26,7 +27,7 @@
 <v t="ahshoe.20161029221111.5"><vh>script</vh></v>
 <v t="ahshoe.20161029221111.6"><vh>script</vh></v>
 </v>
-<v t="ahshoe.20161029221111.7" a="E"><vh>body</vh>
+<v t="ahshoe.20161029221111.7"><vh>body</vh>
 <v t="ahshoe.20161030130757.1"><vh>nav</vh>
 <v t="ahshoe.20161029221111.8"><vh>div</vh>
 <v t="ahshoe.20161029221111.9"><vh>div</vh>
@@ -160,7 +161,7 @@
 </v>
 </v>
 <v t="ahshoe.20161029221111.89"><vh>div</vh>
-<v t="ahshoe.20161029221111.90" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.90"><vh>div</vh>
 <v t="ahshoe.20161029221111.91"><vh>script</vh></v>
 </v>
 </v>
@@ -290,7 +291,7 @@
 </v>
 </v>
 <v t="ahshoe.20161029221111.177"><vh>div</vh>
-<v t="ahshoe.20161029221111.178" a="E"><vh>div</vh>
+<v t="ahshoe.20161029221111.178"><vh>div</vh>
 <v t="ahshoe.20161029221111.179"><vh>h2</vh></v>
 <v t="ahshoe.20161029221111.180"><vh>script</vh></v>
 </v>
@@ -630,12 +631,15 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.18">&lt;ul class="nav navbar-nav navbar-right"&gt;
 @others
 &lt;/ul&gt;</t>
-<t tx="ahshoe.20161029221111.180">&lt;script src="js/input_teachers.js"&gt;&lt;/script&gt;</t>
+<t tx="ahshoe.20161029221111.180">&lt;!-- 這裡使用 Java Script 迴圈產生樣式 --&gt;
+&lt;script src="js/input_teachers.js"&gt;&lt;/script&gt;</t>
 <t tx="ahshoe.20161029221111.19">&lt;li class="active"&gt;
 @others
 &lt;/li&gt;</t>
 <t tx="ahshoe.20161029221111.2">&lt;head&gt;
 &lt;!-- 40323230 製作 --&gt;
+&lt;!-- 使用 Leo Editor 編輯全部文件 --&gt;
+&lt;!-- 詳見 Github README.md --&gt;
 @others
 &lt;/head&gt;</t>
 <t tx="ahshoe.20161029221111.20">&lt;a href="#home"&gt;首頁&lt;/a&gt;</t>
@@ -816,7 +820,8 @@ vertical: body pane on the botton</t>
 <t tx="ahshoe.20161029221111.90">&lt;div class="container"&gt;
 @others
 &lt;/div&gt;</t>
-<t tx="ahshoe.20161029221111.91">&lt;script src="js/input_news.js"&gt;&lt;/script&gt;</t>
+<t tx="ahshoe.20161029221111.91">&lt;!-- 這裡使用 Java Script 迴圈產生樣式 --&gt;
+&lt;script src="js/input_news.js"&gt;&lt;/script&gt;</t>
 <t tx="ahshoe.20161029221111.92">&lt;!-- 第5個區塊 - 關於我們 --&gt;
 &lt;div id="about"&gt;
 @others
